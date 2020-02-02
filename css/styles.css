@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  color: #21bf73;
+  margin-bottom: 0;
+  font-size: 5.625em;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #1111d9;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #0f4c75;
+}
+
+.sub {
+  color: #21bf73;
+  font-size: 2.5rem;
+}
+
+span {
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #192965;
+  /* line-height: 10px; */
+  padding-top: 50px;
+  font-size: 1rem;
+}
+
+.middle-container {
+  background-color: white;
+  padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #3fc5f0;
+  padding: 25px;
+
+
+}
+
+.footer-link {
+  color: blue;
+  font-size: 20px;
+  margin:10px 20px;
+
+
+}
+.footer-link:hover {
+  background-color:grey ;
+  font-size: 30px;
+
+}
+.downcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.upcloud {
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+
+.img {
+  height: 192px;
+  width: 192px;
+}
+
+.pro {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  padding-bottom: 20px;
+}
+
+.beg {
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  border-radius: 100%;
+
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  font-size: 1.0rem;
+  text-align: left;
+  line-height: 2;
+}
+
+/* .clear
+{
+  clear: left;
+}
+.clear1
+{
+  clear:right;
+} */
+.skills {
+  padding-top: 2.5rem;
+  font-size: 1rem;
+}
+
+.profile {
+  font-size: 1rem;
+}
+
+.contact-me {
+  font-size: 1rem;
+}
+hr
+{
+  border-color:black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5% ;
+  margin: 100px auto;
+}
+.btn {
+	background:linear-gradient(to bottom, #42d6b1 5%,#42d6b1 100%);
+	background-color:blue;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	/* font-size:17px; */
+	padding:16px 31px;
+	text-decoration:none;
+  margin-bottom: 50px;
+}
+/* a
+{
+  margin:10px 20px;
+} */
+.copy
+{
+  color: white;
+}
